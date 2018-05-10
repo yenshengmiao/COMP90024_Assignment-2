@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
+    <link rel="stylesheet" href="home.css" >
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prefixfree/1.0.7/prefixfree.min.js"></script>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+    <div class="IMGcontainer">
+        <img id="image" src="images/birdeye.jpg">
+        <div class="text IMGcentered"></div>
+    </div>
+
+    <div id="scenarios">
+        <h2>Scenarios Considered</h2>
+    </div>
+
+    <div id="myNav" class="overlay">
+        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+        <div class="overlay-content">
+            <a href="/project_webpage/home/home.html">Home</a>
+            <a href="/project_webpage/scenario1/map_bar_combined.html">Scenario 1</a>
+            <a href="/project_webpage/scenario2/map_bar_combined.html">Scenario 2</a>
+            <a href="/project_webpage/scenario3/map_bar_combined.html">Scenario 3</a>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="column">
+            <div class="scenario_container">
+                <img src="images/scenario_1.jpeg" class="scenario_image">
+                <div class="scenario_overlay">
+                    <div class="scenario_text">
+                        This scenario tries to explore whether people who visit green spaces regularly will be happier or not. By compare positive rate of tweets and proportion that people weekly visit green space in each suburb. From the graph we can observe that the fluctuations of both lines tend to be consistent. Therefore, aside from other factors, people who visit green place like park or garden frequently are more likely to be positive.</div>
+                </div>
+            </div>
+
+        </div>
+        <div class="column">
+
+            <div class="scenario_container">
+                <img src="images/scenario_2.jpeg" class="scenario_image">
+                <div class="scenario_overlay">
+                    <div class="scenario_text">People post tweets to show their attitudes toward the Australian Football League(AFL). With the sentiment analysis of tweets that related to the AFL, the results show that more than half people (58%) hold a neutral attitude while the number of positive tweets is three times as the negative posts. Moreover, the AFL attraction bar chart demonstrates that the tweets posted by East Melbourne people take nearly 40% of the total tweets related to AFL while the passion of Docklands folks is half of East Melbourne (17%) people.</div>
+                </div>
+            </div>
+
+        </div>
+        <div class="column">
+
+            <div class="scenario_container">
+                <img src="images/scenario_3.jpeg" class="scenario_image">
+                <div class="scenario_overlay">
+                    <div class="scenario_text">Our analysis tries to perform a correlation between the rate of positive tweets and the proportion of people who have sedentary behavior in each suburb. Ideally, the length of the blue bar will have a positive relationship with the length of the yellow bar, which indicates that the higher percent of positive rates the less concern of sedentary behaviors, and therefore leads to the higher proportion of people who keep sitting for 7 hours.</div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <span style="color: white;position:absolute; font-size:40px;cursor:pointer;top: 30px; left:30px" onclick="openNav()">&#9776; open</span>
+
+    <script src="home.js"></script>
+</body>
+</html>

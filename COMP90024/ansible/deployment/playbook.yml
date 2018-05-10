@@ -1,0 +1,14 @@
+# this is the file to install required packages on servers
+
+---
+- name: Install required packages on servers
+  hosts: remote
+  become: yes
+  roles:
+     - docker
+     - node
+     - grunt
+     - jq
+     - vim
+
+     

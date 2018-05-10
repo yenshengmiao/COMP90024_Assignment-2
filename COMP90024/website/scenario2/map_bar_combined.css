@@ -1,0 +1,112 @@
+@import 'https://fonts.googleapis.com/css?family=Roboto+Mono:100';
+/*__________________________________________________menu_bar__________________________________________________________*/
+
+.navbar {
+    overflow: hidden;
+    background-color: #094183;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.navbar a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 100;
+}
+
+.navbar a:hover {
+    background: #ddd;
+    color: black;
+}
+
+/*__________________________________________________bar_chart_________________________________________________________*/
+
+
+#mydiv {
+    position: absolute;
+    z-index: 9;
+    background-color: #f1f1f1;
+    text-align: center;
+    border: 1px solid #d3d3d3;
+}
+
+#mydivheader {
+    padding: 10px;
+    cursor: move;
+    z-index: 10;
+    background-color: #2196F3;
+    color: #fff;
+}
+
+html, body {
+    height:100%;
+    width:100%;
+}
+
+#map {
+    margin-top:48px;
+    width: 100%;
+    height: 93%;
+}
+
+#square {
+    font-family: "Times", Arial, serif;
+    border-style: solid;
+    border-radius: 25px;
+    padding-top: 25px;
+    padding-left: 25px;
+    padding-bottom: 10px;
+    position: fixed;
+    top: 48px;
+    right: 0;
+    width: 12%;
+    height: 60%;
+    background-color: #b3cccc;
+    z-index: 5;
+}
+
+#temp {
+    height:calc(100% - 0px);
+    width:calc(100% - 0px);
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.axis text {
+    font: 10px sans-serif;
+}
+
+.top-right {
+    position: absolute;
+    top: 70px;
+    right: 80px;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+}
+
+.bar {
+    fill: steelblue;
+    fill-opacity: .9;
+}
+
+.x.axis path {
+    display: none;
+}
+
+label {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}

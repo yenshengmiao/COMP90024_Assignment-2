@@ -1,0 +1,174 @@
+# COMP90024 Assignment 2
+# Australian Social Media Analytics (City Melbourne)
+# Team 41
+# Jiajian Jiang 775535
+# Yen Sheng Miao 849388
+# Yijian Zhang 806676
+# Yongkang Liu 849892
+# Zonglin Jiang 862168
+
+READ ME FILE
+
+THIS CODE IS TO 
+
+1. CURL THE DESIGN DOCUMENT WITH TO THE DATABASE
+2. QUERY THE HARVESTED TWITTER DATA AND PLACE IT IN A NEW DATABASE
+
+
+# ___melbourne___
+# curl -X PUT http://team41:team41@localhost:5984/twitter_mel/_design/default -d '{ "_id": "_design/default", "language": "javascript", "views": { "query": { "map": "function(doc) { if(doc.text){ emit(doc.id_str, [doc.text, doc.coordinates]); } }" } } }'
+
+import couchdb
+
+user = "team41"
+password = "team41"
+couchserver = couchdb.Server("http://%s:%s@localhost:5984/" % (user, password))
+
+db_retrieve = "twitter_mel"
+if db_retrieve in couchserver:
+    db_r = couchserver[db_retrieve]
+else:
+    db_r = couchserver.create(db_retrieve)
+
+# __________________sentiment_store___________________________
+
+db_store = "overall_twitter"
+if db_store in couchserver:
+    db_s = couchserver[db_store]
+else:
+    db_s = couchserver.create(db_store)
+
+for item in db_r.view('default/query'):         # change
+    try:
+        db_s[item.key] = {'text': item.value[0], 'coordinates': item.value[1]}
+    except Exception:
+    	print('error has ocured ... ')
+        pass
+
+
+# ___sydney___
+# curl -X PUT http://team41:team41@localhost:5984/twitter_syd/_design/default -d '{ "_id": "_design/default", "language": "javascript", "views": { "query": { "map": "function(doc) { if(doc.text){ emit(doc.id_str, [doc.text, doc.coordinates]); } }" } } }'
+
+import couchdb
+
+user = "team41"
+password = "team41"
+couchserver = couchdb.Server("http://%s:%s@localhost:5984/" % (user, password))
+
+db_retrieve = "twitter_syd"
+if db_retrieve in couchserver:
+    db_r = couchserver[db_retrieve]
+else:
+    db_r = couchserver.create(db_retrieve)
+
+# __________________sentiment_store___________________________
+
+db_store = "overall_twitter"
+if db_store in couchserver:
+    db_s = couchserver[db_store]
+else:
+    db_s = couchserver.create(db_store)
+
+for item in db_r.view('default/query'):
+    try:
+        db_s[item.key] = {'text': item.value[0], 'coordinates': item.value[1]}
+    except Exception:
+    	print('error has ocured ... ')
+        pass
+
+______________________________________________________________________________________________________________________________________________________
+
+1. THIS FEW LINES ALSO DOES THE SAME BUT WITH THE TWITTER DATA FROM RICHARD
+
+
+# ___melbourne___
+# curl -X PUT http://localhost:5984/twitter_extract_mel
+# curl -X PUT http://localhost:5984/twitter_extract_mel/_design/default -d '{"_id": "_design/default","language": "javascript","views": {"query": {"map":"function(doc) {if(doc.doc){emit(doc.doc[\"_id\"], [doc.doc[\"text\"],doc.doc.coordinates[\"coordinates\"]]);}}"}}}'
+
+user = "team41"
+password = "team41"
+couchserver = couchdb.Server("http://%s:%s@localhost:5984/" % (user, password))
+
+db_retrieve = "twitter_extract_mel"
+if db_retrieve in couchserver:
+    db_r = couchserver[db_retrieve]
+else:
+    db_r = couchserver.create(db_retrieve)
+
+# __________________sentiment_store___________________________
+
+db_store = "overall_twitter"
+if db_store in couchserver:
+    db_s = couchserver[db_store]
+else:
+    db_s = couchserver.create(db_store)
+
+for item in db_r.view('default/query'):
+    try:
+        db_s[item.key] = {'text': item.value[0], 'coordinates': item.value[1]}
+    except Exception:
+    	print('error has ocured ... ')
+        pass
+
+
+
+# ___sydney___
+# curl -X PUT http://localhost:5984/twitter_extract_syd
+# curl -X PUT http://localhost:5984/twitter_extract_syd/_design/default -d '{"_id": "_design/default","language": "javascript","views": {"query": {"map":"function(doc) {if(doc.doc){emit(doc.doc[\"_id\"], [doc.doc[\"text\"],doc.doc.coordinates[\"coordinates\"]]);}}"}}}'
+
+user = "team41"
+password = "team41"
+couchserver = couchdb.Server("http://%s:%s@localhost:5984/" % (user, password))
+
+db_retrieve = "twitter_extract_syd"
+if db_retrieve in couchserver:
+    db_r = couchserver[db_retrieve]
+else:
+    db_r = couchserver.create(db_retrieve)
+
+# __________________sentiment_store___________________________
+
+db_store = "overall_twitter"
+if db_store in couchserver:
+    db_s = couchserver[db_store]
+else:
+    db_s = couchserver.create(db_store)
+
+for item in db_r.view('default/query'):
+    try:
+        db_s[item.key] = {'text': item.value[0], 'coordinates': item.value[1], , }
+    except Exception:
+    	print('error has ocured ... ')
+        pass
+
+
+______________________________________________________________________________________________________________________________________________________
+
+TUNNELLING TO ACCESS COUCHDB FROM A REMOTE MACHINE
+
+
+ssh -f -L localhost:<ANY PORT OF YOUR CHOICE>:127.0.0.1:5984 -i <KEY> <USER NAME>@<REMOTE IP> -N
+
+
+______________________________________________________________________________________________________________________________________________________
+
+
+CODE TO CREATE CONTAINER AND CONNECT BETWEEN CONTAINERS OF DIFFERENT NODES
+
+1. sudo docker run --name couch_master -e COUCHDB_USER=<username> -e COUCHDB_PASSWORD=<password> -e NODENAME=<instance-IP> -v</path/to/persistence/storage>:/opt/couchdb/data -p 5984:5984 -p 4369:4369 -p 5986:5986 -p 9100-9200:9100-9200 -d couchdb:2.1.1
+
+2. curl -X POST -H 'Content-Type: application/json' http://<username>:<password>@127.0.0.1:5984/_cluster_setup -d "{\"action\": \"enable_cluster\", \"bind_address\":\"0.0.0.0\", \"username\": \"<username>\", \"password\":\"<password>\", \"port\": 5984, \"node_count\": \"<size of the cluster>\", \"remote_node\": \"<remote node ip>\", \"remote_current_user\": \"<username>\", \"remote_current_password\": \"<password>\"}" 
+
+3. curl -X POST -H 'Content-Type: application/json' http://<username>:<password>@127.0.0.1:5984/_cluster_setup -d "{\"action\": \"add_node\", \"host\":\"<remote node ip>\", \"port\": 5984, \"username\": \"<username>\", \"password\":\"<password>\"}"
+
+4. curl -X POST "http://<username>:<password>@localhost:5984/_cluster_setup" -H 'Content-Type: application/json' -d '{"action": "finish_cluster"}'
+
+5. curl http://<username>:<password>@localhost:5984/_cluster_setup
+
+6. curl -X GET http://<username>:<password>@localhost:5984/_membership
+
+______________________________________________________________________________________________________________________________________________________
+
+
+
+

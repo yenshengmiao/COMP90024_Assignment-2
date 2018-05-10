@@ -1,0 +1,13 @@
+---
+
+- name: Install vim
+  apt: name={{ item }} cache_valid_time=3600 state=present update_cache=yes
+  with_items:
+    - vim
+    - git-core
+    - python
+    - python-simplejson
+- name: Install vimrc
+  copy: src=~/.vimrc dest=~/.vimrc
+- name: Install vundle
+  git: repo=https://github.com/gmarik/Vundle.vim.git dest=~/.vim/bundle/Vundle.vim

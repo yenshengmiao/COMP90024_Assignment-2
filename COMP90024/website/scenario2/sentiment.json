@@ -1,0 +1,1970 @@
+[
+  {
+    "suberb": "Monbulk",
+    "negative": 1,
+    "neutral": 36,
+    "postive": 9
+  },
+  {
+    "suberb": "Little River",
+    "negative": 5,
+    "neutral": 47,
+    "postive": 26
+  },
+  {
+    "suberb": "Maidstone",
+    "negative": 15,
+    "neutral": 188,
+    "postive": 57
+  },
+  {
+    "suberb": "Braybrook",
+    "negative": 27,
+    "neutral": 212,
+    "postive": 100
+  },
+  {
+    "suberb": "Niddrie",
+    "negative": 21,
+    "neutral": 116,
+    "postive": 42
+  },
+  {
+    "suberb": "Langwarrin",
+    "negative": 21,
+    "neutral": 141,
+    "postive": 63
+  },
+  {
+    "suberb": "Elwood",
+    "negative": 14,
+    "neutral": 179,
+    "postive": 90
+  },
+  {
+    "suberb": "Kallista",
+    "negative": 0,
+    "neutral": 16,
+    "postive": 4
+  },
+  {
+    "suberb": "Heidelberg",
+    "negative": 39,
+    "neutral": 316,
+    "postive": 172
+  },
+  {
+    "suberb": "Wyndham Vale",
+    "negative": 7,
+    "neutral": 60,
+    "postive": 20
+  },
+  {
+    "suberb": "Montmorency",
+    "negative": 9,
+    "neutral": 66,
+    "postive": 34
+  },
+  {
+    "suberb": "Coolaroo",
+    "negative": 6,
+    "neutral": 116,
+    "postive": 36
+  },
+  {
+    "suberb": "Somerville",
+    "negative": 5,
+    "neutral": 34,
+    "postive": 17
+  },
+  {
+    "suberb": "Jacana",
+    "negative": 3,
+    "neutral": 58,
+    "postive": 16
+  },
+  {
+    "suberb": "Fawkner",
+    "negative": 16,
+    "neutral": 167,
+    "postive": 84
+  },
+  {
+    "suberb": "Edithvale",
+    "negative": 4,
+    "neutral": 43,
+    "postive": 17
+  },
+  {
+    "suberb": "St Kilda West",
+    "negative": 86,
+    "neutral": 925,
+    "postive": 373
+  },
+  {
+    "suberb": "Campbellfield",
+    "negative": 8,
+    "neutral": 101,
+    "postive": 31
+  },
+  {
+    "suberb": "Epping",
+    "negative": 91,
+    "neutral": 542,
+    "postive": 247
+  },
+  {
+    "suberb": "Olinda",
+    "negative": 1,
+    "neutral": 26,
+    "postive": 12
+  },
+  {
+    "suberb": "Kilsyth",
+    "negative": 22,
+    "neutral": 169,
+    "postive": 83
+  },
+  {
+    "suberb": "Bellfield",
+    "negative": 6,
+    "neutral": 93,
+    "postive": 28
+  },
+  {
+    "suberb": "The Basin",
+    "negative": 1,
+    "neutral": 11,
+    "postive": 23
+  },
+  {
+    "suberb": "Broadmeadows",
+    "negative": 6,
+    "neutral": 103,
+    "postive": 29
+  },
+  {
+    "suberb": "Wattleglen",
+    "negative": 0,
+    "neutral": 21,
+    "postive": 10
+  },
+  {
+    "suberb": "Wantirna",
+    "negative": 10,
+    "neutral": 190,
+    "postive": 64
+  },
+  {
+    "suberb": "Box Hill South",
+    "negative": 5,
+    "neutral": 113,
+    "postive": 25
+  },
+  {
+    "suberb": "Burwood",
+    "negative": 63,
+    "neutral": 995,
+    "postive": 213
+  },
+  {
+    "suberb": "Brunswick West",
+    "negative": 34,
+    "neutral": 253,
+    "postive": 151
+  },
+  {
+    "suberb": "Viewbank",
+    "negative": 0,
+    "neutral": 42,
+    "postive": 13
+  },
+  {
+    "suberb": "Seaford",
+    "negative": 13,
+    "neutral": 62,
+    "postive": 34
+  },
+  {
+    "suberb": "Balwyn",
+    "negative": 21,
+    "neutral": 139,
+    "postive": 66
+  },
+  {
+    "suberb": "Bundoora",
+    "negative": 29,
+    "neutral": 229,
+    "postive": 84
+  },
+  {
+    "suberb": "Meadow Heights",
+    "negative": 12,
+    "neutral": 136,
+    "postive": 69
+  },
+  {
+    "suberb": "Croydon South",
+    "negative": 19,
+    "neutral": 81,
+    "postive": 65
+  },
+  {
+    "suberb": "Doncaster East",
+    "negative": 18,
+    "neutral": 180,
+    "postive": 83
+  },
+  {
+    "suberb": "Ferny Creek",
+    "negative": 1,
+    "neutral": 21,
+    "postive": 10
+  },
+  {
+    "suberb": "Belgrave Heights",
+    "negative": 35,
+    "neutral": 170,
+    "postive": 64
+  },
+  {
+    "suberb": "Notting Hill",
+    "negative": 51,
+    "neutral": 495,
+    "postive": 299
+  },
+  {
+    "suberb": "Flemington",
+    "negative": 572,
+    "neutral": 571,
+    "postive": 162
+  },
+  {
+    "suberb": "Fitzroy",
+    "negative": 92,
+    "neutral": 763,
+    "postive": 377
+  },
+  {
+    "suberb": "Tyabb",
+    "negative": 0,
+    "neutral": 3,
+    "postive": 3
+  },
+  {
+    "suberb": "Kalorama",
+    "negative": 0,
+    "neutral": 20,
+    "postive": 7
+  },
+  {
+    "suberb": "Darch",
+    "negative": 9,
+    "neutral": 74,
+    "postive": 22
+  },
+  {
+    "suberb": "Mill Park",
+    "negative": 68,
+    "neutral": 622,
+    "postive": 255
+  },
+  {
+    "suberb": "Mornington",
+    "negative": 11,
+    "neutral": 243,
+    "postive": 116
+  },
+  {
+    "suberb": "Malvern East",
+    "negative": 33,
+    "neutral": 226,
+    "postive": 113
+  },
+  {
+    "suberb": "Hillside",
+    "negative": 42,
+    "neutral": 227,
+    "postive": 121
+  },
+  {
+    "suberb": "Sandhurst",
+    "negative": 104,
+    "neutral": 512,
+    "postive": 344
+  },
+  {
+    "suberb": "Essendon North",
+    "negative": 32,
+    "neutral": 236,
+    "postive": 102
+  },
+  {
+    "suberb": "Derrimut",
+    "negative": 27,
+    "neutral": 271,
+    "postive": 112
+  },
+  {
+    "suberb": "Warrandyte",
+    "negative": 0,
+    "neutral": 8,
+    "postive": 6
+  },
+  {
+    "suberb": "Highett",
+    "negative": 59,
+    "neutral": 554,
+    "postive": 226
+  },
+  {
+    "suberb": "Wantirna South",
+    "negative": 61,
+    "neutral": 333,
+    "postive": 180
+  },
+  {
+    "suberb": "Essendon",
+    "negative": 80,
+    "neutral": 662,
+    "postive": 270
+  },
+  {
+    "suberb": "Junction Village",
+    "negative": 10,
+    "neutral": 56,
+    "postive": 36
+  },
+  {
+    "suberb": "Eltham North",
+    "negative": 13,
+    "neutral": 129,
+    "postive": 42
+  },
+  {
+    "suberb": "Tecoma",
+    "negative": 79,
+    "neutral": 496,
+    "postive": 182
+  },
+  {
+    "suberb": "Springvale South",
+    "negative": 20,
+    "neutral": 141,
+    "postive": 46
+  },
+  {
+    "suberb": "Spotswood",
+    "negative": 9,
+    "neutral": 126,
+    "postive": 47
+  },
+  {
+    "suberb": "Vermont",
+    "negative": 15,
+    "neutral": 101,
+    "postive": 58
+  },
+  {
+    "suberb": "Langwarrin South",
+    "negative": 14,
+    "neutral": 70,
+    "postive": 52
+  },
+  {
+    "suberb": "Doncaster",
+    "negative": 13,
+    "neutral": 129,
+    "postive": 46
+  },
+  {
+    "suberb": "Mordialloc",
+    "negative": 25,
+    "neutral": 220,
+    "postive": 86
+  },
+  {
+    "suberb": "Diggers Rest",
+    "negative": 1,
+    "neutral": 16,
+    "postive": 10
+  },
+  {
+    "suberb": "Mount Martha",
+    "negative": 9,
+    "neutral": 47,
+    "postive": 21
+  },
+  {
+    "suberb": "Werribee South",
+    "negative": 8,
+    "neutral": 51,
+    "postive": 34
+  },
+  {
+    "suberb": "Yarra Glen",
+    "negative": 10,
+    "neutral": 112,
+    "postive": 70
+  },
+  {
+    "suberb": "Forest Hill",
+    "negative": 5,
+    "neutral": 122,
+    "postive": 45
+  },
+  {
+    "suberb": "West Melbourne",
+    "negative": 42,
+    "neutral": 740,
+    "postive": 276
+  },
+  {
+    "suberb": "Brunswick",
+    "negative": 56,
+    "neutral": 528,
+    "postive": 267
+  },
+  {
+    "suberb": "Ferntree Gully",
+    "negative": 25,
+    "neutral": 173,
+    "postive": 86
+  },
+  {
+    "suberb": "Warranwood",
+    "negative": 12,
+    "neutral": 109,
+    "postive": 72
+  },
+  {
+    "suberb": "Lynbrook",
+    "negative": 21,
+    "neutral": 89,
+    "postive": 34
+  },
+  {
+    "suberb": "Aspendale Gardens",
+    "negative": 6,
+    "neutral": 58,
+    "postive": 16
+  },
+  {
+    "suberb": "Thornbury",
+    "negative": 47,
+    "neutral": 515,
+    "postive": 155
+  },
+  {
+    "suberb": "Research",
+    "negative": 5,
+    "neutral": 34,
+    "postive": 32
+  },
+  {
+    "suberb": "Laverton",
+    "negative": 38,
+    "neutral": 400,
+    "postive": 156
+  },
+  {
+    "suberb": "Cranbourne East",
+    "negative": 7,
+    "neutral": 35,
+    "postive": 18
+  },
+  {
+    "suberb": "Brunswick East",
+    "negative": 42,
+    "neutral": 384,
+    "postive": 212
+  },
+  {
+    "suberb": "Officer",
+    "negative": 26,
+    "neutral": 289,
+    "postive": 106
+  },
+  {
+    "suberb": "East Melbourne",
+    "negative": 205,
+    "neutral": 2600,
+    "postive": 1082
+  },
+  {
+    "suberb": "Mount Evelyn",
+    "negative": 13,
+    "neutral": 104,
+    "postive": 44
+  },
+  {
+    "suberb": "Croydon North",
+    "negative": 37,
+    "neutral": 306,
+    "postive": 141
+  },
+  {
+    "suberb": "Black Rock",
+    "negative": 34,
+    "neutral": 204,
+    "postive": 94
+  },
+  {
+    "suberb": "Saint Andrews",
+    "negative": 5,
+    "neutral": 35,
+    "postive": 9
+  },
+  {
+    "suberb": "Hallam",
+    "negative": 11,
+    "neutral": 77,
+    "postive": 47
+  },
+  {
+    "suberb": "Keilor Park",
+    "negative": 13,
+    "neutral": 69,
+    "postive": 30
+  },
+  {
+    "suberb": "Healesville",
+    "negative": 6,
+    "neutral": 161,
+    "postive": 47
+  },
+  {
+    "suberb": "South Melbourne",
+    "negative": 132,
+    "neutral": 1261,
+    "postive": 678
+  },
+  {
+    "suberb": "Taylors Hill",
+    "negative": 33,
+    "neutral": 213,
+    "postive": 108
+  },
+  {
+    "suberb": "Sunbury",
+    "negative": 200,
+    "neutral": 949,
+    "postive": 441
+  },
+  {
+    "suberb": "Kew East",
+    "negative": 13,
+    "neutral": 131,
+    "postive": 78
+  },
+  {
+    "suberb": "Ascot Vale",
+    "negative": 33,
+    "neutral": 368,
+    "postive": 217
+  },
+  {
+    "suberb": "Saint Kilda",
+    "negative": 138,
+    "neutral": 1187,
+    "postive": 502
+  },
+  {
+    "suberb": "Port Melbourne",
+    "negative": 48,
+    "neutral": 593,
+    "postive": 309
+  },
+  {
+    "suberb": "Keilor East",
+    "negative": 32,
+    "neutral": 188,
+    "postive": 91
+  },
+  {
+    "suberb": "Parkdale",
+    "negative": 48,
+    "neutral": 374,
+    "postive": 174
+  },
+  {
+    "suberb": "Airport West",
+    "negative": 13,
+    "neutral": 87,
+    "postive": 38
+  },
+  {
+    "suberb": "North Melbourne",
+    "negative": 58,
+    "neutral": 625,
+    "postive": 278
+  },
+  {
+    "suberb": "Seaholme",
+    "negative": 3,
+    "neutral": 32,
+    "postive": 22
+  },
+  {
+    "suberb": "Travancore",
+    "negative": 28,
+    "neutral": 225,
+    "postive": 72
+  },
+  {
+    "suberb": "Kurunjang",
+    "negative": 4,
+    "neutral": 24,
+    "postive": 18
+  },
+  {
+    "suberb": "Heathmont",
+    "negative": 44,
+    "neutral": 517,
+    "postive": 242
+  },
+  {
+    "suberb": "Bonbeach",
+    "negative": 54,
+    "neutral": 348,
+    "postive": 252
+  },
+  {
+    "suberb": "Canterbury",
+    "negative": 15,
+    "neutral": 162,
+    "postive": 78
+  },
+  {
+    "suberb": "Caulfield North",
+    "negative": 120,
+    "neutral": 733,
+    "postive": 330
+  },
+  {
+    "suberb": "Mont Albert North",
+    "negative": 9,
+    "neutral": 71,
+    "postive": 15
+  },
+  {
+    "suberb": "Surrey Hills",
+    "negative": 15,
+    "neutral": 140,
+    "postive": 88
+  },
+  {
+    "suberb": "Oak Park",
+    "negative": 17,
+    "neutral": 126,
+    "postive": 63
+  },
+  {
+    "suberb": "Nunawading",
+    "negative": 6,
+    "neutral": 74,
+    "postive": 41
+  },
+  {
+    "suberb": "Keilor Downs",
+    "negative": 10,
+    "neutral": 47,
+    "postive": 14
+  },
+  {
+    "suberb": "Vermont South",
+    "negative": 38,
+    "neutral": 507,
+    "postive": 355
+  },
+  {
+    "suberb": "Toorak",
+    "negative": 91,
+    "neutral": 633,
+    "postive": 301
+  },
+  {
+    "suberb": "Doreen",
+    "negative": 12,
+    "neutral": 79,
+    "postive": 37
+  },
+  {
+    "suberb": "Montrose",
+    "negative": 3,
+    "neutral": 34,
+    "postive": 13
+  },
+  {
+    "suberb": "Sorrento",
+    "negative": 1,
+    "neutral": 3,
+    "postive": 0
+  },
+  {
+    "suberb": "Eumemmerring",
+    "negative": 6,
+    "neutral": 46,
+    "postive": 19
+  },
+  {
+    "suberb": "Waterways",
+    "negative": 3,
+    "neutral": 14,
+    "postive": 7
+  },
+  {
+    "suberb": "Richmond",
+    "negative": 122,
+    "neutral": 902,
+    "postive": 435
+  },
+  {
+    "suberb": "Keilor",
+    "negative": 19,
+    "neutral": 208,
+    "postive": 52
+  },
+  {
+    "suberb": "Knoxfield",
+    "negative": 51,
+    "neutral": 338,
+    "postive": 160
+  },
+  {
+    "suberb": "Kingsbury",
+    "negative": 53,
+    "neutral": 355,
+    "postive": 135
+  },
+  {
+    "suberb": "Frankston",
+    "negative": 39,
+    "neutral": 212,
+    "postive": 129
+  },
+  {
+    "suberb": "Melton West",
+    "negative": 15,
+    "neutral": 126,
+    "postive": 44
+  },
+  {
+    "suberb": "Essendon West",
+    "negative": 22,
+    "neutral": 154,
+    "postive": 67
+  },
+  {
+    "suberb": "Narre Warren South",
+    "negative": 24,
+    "neutral": 100,
+    "postive": 75
+  },
+  {
+    "suberb": "Botanic Ridge",
+    "negative": 3,
+    "neutral": 34,
+    "postive": 26
+  },
+  {
+    "suberb": "Caroline Springs",
+    "negative": 27,
+    "neutral": 191,
+    "postive": 88
+  },
+  {
+    "suberb": "Chelsea Heights",
+    "negative": 16,
+    "neutral": 96,
+    "postive": 51
+  },
+  {
+    "suberb": "Baxter",
+    "negative": 16,
+    "neutral": 83,
+    "postive": 54
+  },
+  {
+    "suberb": "Frankston North",
+    "negative": 43,
+    "neutral": 520,
+    "postive": 207
+  },
+  {
+    "suberb": "Kilsyth South",
+    "negative": 1,
+    "neutral": 22,
+    "postive": 10
+  },
+  {
+    "suberb": "Burnside Heights",
+    "negative": 17,
+    "neutral": 140,
+    "postive": 60
+  },
+  {
+    "suberb": "Endeavour Hills",
+    "negative": 18,
+    "neutral": 142,
+    "postive": 62
+  },
+  {
+    "suberb": "Moorooduc",
+    "negative": 8,
+    "neutral": 100,
+    "postive": 65
+  },
+  {
+    "suberb": "Glen Iris",
+    "negative": 29,
+    "neutral": 245,
+    "postive": 138
+  },
+  {
+    "suberb": "Delahey",
+    "negative": 39,
+    "neutral": 111,
+    "postive": 94
+  },
+  {
+    "suberb": "Chadstone",
+    "negative": 31,
+    "neutral": 293,
+    "postive": 96
+  },
+  {
+    "suberb": "Hawthorn South",
+    "negative": 31,
+    "neutral": 367,
+    "postive": 164
+  },
+  {
+    "suberb": "Parkville",
+    "negative": 93,
+    "neutral": 552,
+    "postive": 256
+  },
+  {
+    "suberb": "Hoppers Crossing",
+    "negative": 105,
+    "neutral": 688,
+    "postive": 427
+  },
+  {
+    "suberb": "North Brighton",
+    "negative": 32,
+    "neutral": 431,
+    "postive": 199
+  },
+  {
+    "suberb": "Balaclava",
+    "negative": 52,
+    "neutral": 441,
+    "postive": 234
+  },
+  {
+    "suberb": "Pascoe Vale",
+    "negative": 38,
+    "neutral": 255,
+    "postive": 137
+  },
+  {
+    "suberb": "Chirnside Park",
+    "negative": 20,
+    "neutral": 159,
+    "postive": 46
+  },
+  {
+    "suberb": "Hampton East",
+    "negative": 9,
+    "neutral": 90,
+    "postive": 65
+  },
+  {
+    "suberb": "Carlton",
+    "negative": 177,
+    "neutral": 1721,
+    "postive": 667
+  },
+  {
+    "suberb": "Westmeadows",
+    "negative": 15,
+    "neutral": 128,
+    "postive": 73
+  },
+  {
+    "suberb": "Narre Warren North",
+    "negative": 36,
+    "neutral": 129,
+    "postive": 65
+  },
+  {
+    "suberb": "Lilydale",
+    "negative": 30,
+    "neutral": 177,
+    "postive": 93
+  },
+  {
+    "suberb": "Macleod",
+    "negative": 8,
+    "neutral": 162,
+    "postive": 71
+  },
+  {
+    "suberb": "Melton South",
+    "negative": 22,
+    "neutral": 102,
+    "postive": 32
+  },
+  {
+    "suberb": "Coburg",
+    "negative": 34,
+    "neutral": 313,
+    "postive": 107
+  },
+  {
+    "suberb": "Ormond",
+    "negative": 16,
+    "neutral": 232,
+    "postive": 96
+  },
+  {
+    "suberb": "Craigieburn",
+    "negative": 40,
+    "neutral": 327,
+    "postive": 182
+  },
+  {
+    "suberb": "Springvale",
+    "negative": 36,
+    "neutral": 301,
+    "postive": 82
+  },
+  {
+    "suberb": "Rockbank",
+    "negative": 2,
+    "neutral": 11,
+    "postive": 7
+  },
+  {
+    "suberb": "Eltham",
+    "negative": 24,
+    "neutral": 200,
+    "postive": 71
+  },
+  {
+    "suberb": "Mernda",
+    "negative": 108,
+    "neutral": 580,
+    "postive": 288
+  },
+  {
+    "suberb": "Glen Huntly",
+    "negative": 21,
+    "neutral": 145,
+    "postive": 78
+  },
+  {
+    "suberb": "Brighton East",
+    "negative": 10,
+    "neutral": 87,
+    "postive": 42
+  },
+  {
+    "suberb": "Tremont",
+    "negative": 9,
+    "neutral": 42,
+    "postive": 31
+  },
+  {
+    "suberb": "Elsternwick",
+    "negative": 10,
+    "neutral": 107,
+    "postive": 43
+  },
+  {
+    "suberb": "Belgrave South",
+    "negative": 1,
+    "neutral": 22,
+    "postive": 15
+  },
+  {
+    "suberb": "Keilor Lodge",
+    "negative": 5,
+    "neutral": 90,
+    "postive": 23
+  },
+  {
+    "suberb": "Altona Meadows",
+    "negative": 31,
+    "neutral": 125,
+    "postive": 103
+  },
+  {
+    "suberb": "Williams Landing",
+    "negative": 40,
+    "neutral": 320,
+    "postive": 148
+  },
+  {
+    "suberb": "Truganina",
+    "negative": 1,
+    "neutral": 31,
+    "postive": 6
+  },
+  {
+    "suberb": "Patterson Lakes",
+    "negative": 5,
+    "neutral": 55,
+    "postive": 26
+  },
+  {
+    "suberb": "Point Cook",
+    "negative": 34,
+    "neutral": 252,
+    "postive": 100
+  },
+  {
+    "suberb": "Bentleigh",
+    "negative": 19,
+    "neutral": 156,
+    "postive": 86
+  },
+  {
+    "suberb": "Kinglake West",
+    "negative": 3,
+    "neutral": 28,
+    "postive": 14
+  },
+  {
+    "suberb": "Kealba",
+    "negative": 5,
+    "neutral": 49,
+    "postive": 15
+  },
+  {
+    "suberb": "Ringwood East",
+    "negative": 26,
+    "neutral": 257,
+    "postive": 105
+  },
+  {
+    "suberb": "Mount Eliza",
+    "negative": 17,
+    "neutral": 98,
+    "postive": 69
+  },
+  {
+    "suberb": "Saint Albans",
+    "negative": 6,
+    "neutral": 47,
+    "postive": 33
+  },
+  {
+    "suberb": "Docklands",
+    "negative": 240,
+    "neutral": 2902,
+    "postive": 1135
+  },
+  {
+    "suberb": "Newport",
+    "negative": 25,
+    "neutral": 185,
+    "postive": 96
+  },
+  {
+    "suberb": "Preston",
+    "negative": 75,
+    "neutral": 421,
+    "postive": 194
+  },
+  {
+    "suberb": "Balwyn North",
+    "negative": 10,
+    "neutral": 150,
+    "postive": 73
+  },
+  {
+    "suberb": "Northcote",
+    "negative": 44,
+    "neutral": 425,
+    "postive": 187
+  },
+  {
+    "suberb": "Watsonia North",
+    "negative": 11,
+    "neutral": 97,
+    "postive": 45
+  },
+  {
+    "suberb": "St Albans",
+    "negative": 11,
+    "neutral": 104,
+    "postive": 36
+  },
+  {
+    "suberb": "Hurstbridge",
+    "negative": 4,
+    "neutral": 43,
+    "postive": 15
+  },
+  {
+    "suberb": "Pakenham South",
+    "negative": 8,
+    "neutral": 111,
+    "postive": 55
+  },
+  {
+    "suberb": "Caulfield",
+    "negative": 8,
+    "neutral": 100,
+    "postive": 46
+  },
+  {
+    "suberb": "St Kilda East",
+    "negative": 23,
+    "neutral": 215,
+    "postive": 104
+  },
+  {
+    "suberb": "Clarinda",
+    "negative": 66,
+    "neutral": 556,
+    "postive": 213
+  },
+  {
+    "suberb": "Heidelberg West",
+    "negative": 4,
+    "neutral": 111,
+    "postive": 31
+  },
+  {
+    "suberb": "Noble Park North",
+    "negative": 17,
+    "neutral": 181,
+    "postive": 73
+  },
+  {
+    "suberb": "Dingley Village",
+    "negative": 12,
+    "neutral": 115,
+    "postive": 32
+  },
+  {
+    "suberb": "Whittlesea",
+    "negative": 9,
+    "neutral": 109,
+    "postive": 46
+  },
+  {
+    "suberb": "Gladstone Park",
+    "negative": 10,
+    "neutral": 96,
+    "postive": 54
+  },
+  {
+    "suberb": "Gembrook",
+    "negative": 0,
+    "neutral": 2,
+    "postive": 3
+  },
+  {
+    "suberb": "Taylors Lakes",
+    "negative": 32,
+    "neutral": 152,
+    "postive": 99
+  },
+  {
+    "suberb": "Clifton Hill",
+    "negative": 42,
+    "neutral": 384,
+    "postive": 208
+  },
+  {
+    "suberb": "Bacchus Marsh",
+    "negative": 18,
+    "neutral": 119,
+    "postive": 60
+  },
+  {
+    "suberb": "Cranbourne West",
+    "negative": 13,
+    "neutral": 83,
+    "postive": 80
+  },
+  {
+    "suberb": "Pascoe Vale South",
+    "negative": 14,
+    "neutral": 137,
+    "postive": 59
+  },
+  {
+    "suberb": "Clifton Springs",
+    "negative": 24,
+    "neutral": 284,
+    "postive": 145
+  },
+  {
+    "suberb": "Blackburn South",
+    "negative": 11,
+    "neutral": 258,
+    "postive": 45
+  },
+  {
+    "suberb": "Lower Plenty",
+    "negative": 7,
+    "neutral": 102,
+    "postive": 40
+  },
+  {
+    "suberb": "Greenvale",
+    "negative": 14,
+    "neutral": 128,
+    "postive": 52
+  },
+  {
+    "suberb": "Ashwood",
+    "negative": 34,
+    "neutral": 401,
+    "postive": 174
+  },
+  {
+    "suberb": "Abbotsford",
+    "negative": 21,
+    "neutral": 239,
+    "postive": 106
+  },
+  {
+    "suberb": "Windsor",
+    "negative": 156,
+    "neutral": 1504,
+    "postive": 746
+  },
+  {
+    "suberb": "Werribee",
+    "negative": 67,
+    "neutral": 475,
+    "postive": 205
+  },
+  {
+    "suberb": "Templestowe Lower",
+    "negative": 13,
+    "neutral": 97,
+    "postive": 32
+  },
+  {
+    "suberb": "Beaconsfield Upper",
+    "negative": 0,
+    "neutral": 6,
+    "postive": 1
+  },
+  {
+    "suberb": "Plenty",
+    "negative": 38,
+    "neutral": 253,
+    "postive": 148
+  },
+  {
+    "suberb": "Belgrave",
+    "negative": 2,
+    "neutral": 13,
+    "postive": 9
+  },
+  {
+    "suberb": "Coburg North",
+    "negative": 22,
+    "neutral": 144,
+    "postive": 55
+  },
+  {
+    "suberb": "Ripponlea",
+    "negative": 37,
+    "neutral": 222,
+    "postive": 103
+  },
+  {
+    "suberb": "Yallambie",
+    "negative": 2,
+    "neutral": 25,
+    "postive": 10
+  },
+  {
+    "suberb": "Rowville",
+    "negative": 59,
+    "neutral": 326,
+    "postive": 145
+  },
+  {
+    "suberb": "Heidelberg Heights",
+    "negative": 5,
+    "neutral": 64,
+    "postive": 18
+  },
+  {
+    "suberb": "Mulgrave",
+    "negative": 31,
+    "neutral": 249,
+    "postive": 122
+  },
+  {
+    "suberb": "Murrumbeena",
+    "negative": 15,
+    "neutral": 243,
+    "postive": 99
+  },
+  {
+    "suberb": "Cranbourne North",
+    "negative": 16,
+    "neutral": 120,
+    "postive": 49
+  },
+  {
+    "suberb": "Roxburgh Park",
+    "negative": 43,
+    "neutral": 324,
+    "postive": 136
+  },
+  {
+    "suberb": "Burwood East",
+    "negative": 8,
+    "neutral": 205,
+    "postive": 80
+  },
+  {
+    "suberb": "Camberwell",
+    "negative": 14,
+    "neutral": 165,
+    "postive": 60
+  },
+  {
+    "suberb": "Kensington",
+    "negative": 9,
+    "neutral": 71,
+    "postive": 27
+  },
+  {
+    "suberb": "Carnegie",
+    "negative": 24,
+    "neutral": 317,
+    "postive": 99
+  },
+  {
+    "suberb": "Brookfield",
+    "negative": 47,
+    "neutral": 209,
+    "postive": 83
+  },
+  {
+    "suberb": "Hawthorn East",
+    "negative": 86,
+    "neutral": 910,
+    "postive": 421
+  },
+  {
+    "suberb": "Doveton",
+    "negative": 26,
+    "neutral": 171,
+    "postive": 79
+  },
+  {
+    "suberb": "Footscray",
+    "negative": 50,
+    "neutral": 447,
+    "postive": 161
+  },
+  {
+    "suberb": "Keysborough",
+    "negative": 43,
+    "neutral": 277,
+    "postive": 98
+  },
+  {
+    "suberb": "Yarra Junction",
+    "negative": 5,
+    "neutral": 11,
+    "postive": 2
+  },
+  {
+    "suberb": "Cairnlea",
+    "negative": 12,
+    "neutral": 62,
+    "postive": 34
+  },
+  {
+    "suberb": "Oakleigh South",
+    "negative": 6,
+    "neutral": 97,
+    "postive": 27
+  },
+  {
+    "suberb": "Seddon",
+    "negative": 23,
+    "neutral": 244,
+    "postive": 87
+  },
+  {
+    "suberb": "Clayton",
+    "negative": 70,
+    "neutral": 753,
+    "postive": 236
+  },
+  {
+    "suberb": "North Warrandyte",
+    "negative": 14,
+    "neutral": 156,
+    "postive": 70
+  },
+  {
+    "suberb": "Croydon Hills",
+    "negative": 9,
+    "neutral": 166,
+    "postive": 80
+  },
+  {
+    "suberb": "Chelsea",
+    "negative": 14,
+    "neutral": 84,
+    "postive": 44
+  },
+  {
+    "suberb": "Hughesdale",
+    "negative": 17,
+    "neutral": 122,
+    "postive": 54
+  },
+  {
+    "suberb": "Selby",
+    "negative": 2,
+    "neutral": 19,
+    "postive": 6
+  },
+  {
+    "suberb": "Aspendale",
+    "negative": 6,
+    "neutral": 37,
+    "postive": 27
+  },
+  {
+    "suberb": "Ashburton",
+    "negative": 20,
+    "neutral": 189,
+    "postive": 70
+  },
+  {
+    "suberb": "Boronia",
+    "negative": 15,
+    "neutral": 88,
+    "postive": 40
+  },
+  {
+    "suberb": "Box Hill",
+    "negative": 47,
+    "neutral": 306,
+    "postive": 105
+  },
+  {
+    "suberb": "Saint Helena",
+    "negative": 6,
+    "neutral": 93,
+    "postive": 46
+  },
+  {
+    "suberb": "Launching Place",
+    "negative": 1,
+    "neutral": 4,
+    "postive": 2
+  },
+  {
+    "suberb": "Box Hill North",
+    "negative": 6,
+    "neutral": 64,
+    "postive": 32
+  },
+  {
+    "suberb": "Woori Yallock",
+    "negative": 152,
+    "neutral": 1353,
+    "postive": 295
+  },
+  {
+    "suberb": "South Kingsville",
+    "negative": 10,
+    "neutral": 84,
+    "postive": 37
+  },
+  {
+    "suberb": "Blackburn",
+    "negative": 9,
+    "neutral": 89,
+    "postive": 38
+  },
+  {
+    "suberb": "Cranbourne",
+    "negative": 15,
+    "neutral": 123,
+    "postive": 79
+  },
+  {
+    "suberb": "Noble Park",
+    "negative": 43,
+    "neutral": 215,
+    "postive": 97
+  },
+  {
+    "suberb": "Maribyrnong",
+    "negative": 52,
+    "neutral": 400,
+    "postive": 157
+  },
+  {
+    "suberb": "Lara",
+    "negative": 19,
+    "neutral": 105,
+    "postive": 57
+  },
+  {
+    "suberb": "Blackburn North",
+    "negative": 3,
+    "neutral": 32,
+    "postive": 20
+  },
+  {
+    "suberb": "Fairfield",
+    "negative": 17,
+    "neutral": 220,
+    "postive": 89
+  },
+  {
+    "suberb": "Cockatoo",
+    "negative": 1,
+    "neutral": 11,
+    "postive": 6
+  },
+  {
+    "suberb": "Cranbourne South",
+    "negative": 16,
+    "neutral": 109,
+    "postive": 52
+  },
+  {
+    "suberb": "Middle Park",
+    "negative": 21,
+    "neutral": 331,
+    "postive": 154
+  },
+  {
+    "suberb": "Queenscliff",
+    "negative": 4,
+    "neutral": 34,
+    "postive": 17
+  },
+  {
+    "suberb": "Emerald",
+    "negative": 3,
+    "neutral": 13,
+    "postive": 7
+  },
+  {
+    "suberb": "Glenroy",
+    "negative": 15,
+    "neutral": 87,
+    "postive": 37
+  },
+  {
+    "suberb": "Officer South",
+    "negative": 1,
+    "neutral": 2,
+    "postive": 2
+  },
+  {
+    "suberb": "Melton",
+    "negative": 7,
+    "neutral": 47,
+    "postive": 29
+  },
+  {
+    "suberb": "Berwick",
+    "negative": 15,
+    "neutral": 223,
+    "postive": 125
+  },
+  {
+    "suberb": "Southbank",
+    "negative": 227,
+    "neutral": 3202,
+    "postive": 1259
+  },
+  {
+    "suberb": "Brooklyn",
+    "negative": 17,
+    "neutral": 106,
+    "postive": 45
+  },
+  {
+    "suberb": "Altona North",
+    "negative": 30,
+    "neutral": 225,
+    "postive": 91
+  },
+  {
+    "suberb": "Scoresby",
+    "negative": 13,
+    "neutral": 93,
+    "postive": 52
+  },
+  {
+    "suberb": "Gowanbrae",
+    "negative": 22,
+    "neutral": 140,
+    "postive": 99
+  },
+  {
+    "suberb": "Watsonia",
+    "negative": 5,
+    "neutral": 43,
+    "postive": 31
+  },
+  {
+    "suberb": "Hampton",
+    "negative": 114,
+    "neutral": 449,
+    "postive": 163
+  },
+  {
+    "suberb": "Sunshine West",
+    "negative": 97,
+    "neutral": 614,
+    "postive": 219
+  },
+  {
+    "suberb": "Collingwood",
+    "negative": 77,
+    "neutral": 860,
+    "postive": 431
+  },
+  {
+    "suberb": "Reservoir",
+    "negative": 42,
+    "neutral": 289,
+    "postive": 120
+  },
+  {
+    "suberb": "Beaumaris",
+    "negative": 5,
+    "neutral": 79,
+    "postive": 32
+  },
+  {
+    "suberb": "Carlton North",
+    "negative": 28,
+    "neutral": 288,
+    "postive": 135
+  },
+  {
+    "suberb": "Blind Bight",
+    "negative": 0,
+    "neutral": 1,
+    "postive": 0
+  },
+  {
+    "suberb": "Ivanhoe East",
+    "negative": 10,
+    "neutral": 73,
+    "postive": 31
+  },
+  {
+    "suberb": "Albert Park",
+    "negative": 127,
+    "neutral": 1046,
+    "postive": 567
+  },
+  {
+    "suberb": "Donvale",
+    "negative": 8,
+    "neutral": 153,
+    "postive": 67
+  },
+  {
+    "suberb": "North Fitzroy",
+    "negative": 50,
+    "neutral": 472,
+    "postive": 273
+  },
+  {
+    "suberb": "Narre Warren",
+    "negative": 21,
+    "neutral": 128,
+    "postive": 68
+  },
+  {
+    "suberb": "Albion",
+    "negative": 5,
+    "neutral": 84,
+    "postive": 35
+  },
+  {
+    "suberb": "Williamstown North",
+    "negative": 16,
+    "neutral": 162,
+    "postive": 79
+  },
+  {
+    "suberb": "Thomastown",
+    "negative": 160,
+    "neutral": 912,
+    "postive": 390
+  },
+  {
+    "suberb": "Macclesfield",
+    "negative": 1,
+    "neutral": 5,
+    "postive": 4
+  },
+  {
+    "suberb": "Pakenham Upper",
+    "negative": 14,
+    "neutral": 65,
+    "postive": 30
+  },
+  {
+    "suberb": "Bulleen",
+    "negative": 97,
+    "neutral": 306,
+    "postive": 123
+  },
+  {
+    "suberb": "Attwood",
+    "negative": 81,
+    "neutral": 946,
+    "postive": 317
+  },
+  {
+    "suberb": "Cheltenham",
+    "negative": 244,
+    "neutral": 467,
+    "postive": 80
+  },
+  {
+    "suberb": "Deer Park",
+    "negative": 9,
+    "neutral": 88,
+    "postive": 25
+  },
+  {
+    "suberb": "Moorabbin",
+    "negative": 14,
+    "neutral": 87,
+    "postive": 36
+  },
+  {
+    "suberb": "Caulfield South",
+    "negative": 1,
+    "neutral": 32,
+    "postive": 10
+  },
+  {
+    "suberb": "Alphington",
+    "negative": 11,
+    "neutral": 69,
+    "postive": 54
+  },
+  {
+    "suberb": "Carrum",
+    "negative": 7,
+    "neutral": 748,
+    "postive": 19
+  },
+  {
+    "suberb": "Altona",
+    "negative": 20,
+    "neutral": 153,
+    "postive": 101
+  },
+  {
+    "suberb": "Heatherton",
+    "negative": 33,
+    "neutral": 356,
+    "postive": 145
+  },
+  {
+    "suberb": "Caulfield East",
+    "negative": 19,
+    "neutral": 124,
+    "postive": 75
+  },
+  {
+    "suberb": "Lysterfield",
+    "negative": 13,
+    "neutral": 203,
+    "postive": 97
+  },
+  {
+    "suberb": "Frankston East",
+    "negative": 26,
+    "neutral": 111,
+    "postive": 69
+  },
+  {
+    "suberb": "Dandenong",
+    "negative": 26,
+    "neutral": 294,
+    "postive": 189
+  },
+  {
+    "suberb": "Hampton Park",
+    "negative": 7,
+    "neutral": 130,
+    "postive": 55
+  },
+  {
+    "suberb": "Diamond Creek",
+    "negative": 10,
+    "neutral": 90,
+    "postive": 32
+  },
+  {
+    "suberb": "Mount Dandenong",
+    "negative": 0,
+    "neutral": 10,
+    "postive": 5
+  },
+  {
+    "suberb": "Greensborough",
+    "negative": 12,
+    "neutral": 122,
+    "postive": 32
+  },
+  {
+    "suberb": "Bayswater",
+    "negative": 28,
+    "neutral": 175,
+    "postive": 111
+  },
+  {
+    "suberb": "Kew",
+    "negative": 60,
+    "neutral": 378,
+    "postive": 172
+  },
+  {
+    "suberb": "Lalor",
+    "negative": 15,
+    "neutral": 231,
+    "postive": 97
+  },
+  {
+    "suberb": "Bayswater North",
+    "negative": 15,
+    "neutral": 174,
+    "postive": 54
+  },
+  {
+    "suberb": "Frankston South",
+    "negative": 19,
+    "neutral": 147,
+    "postive": 85
+  },
+  {
+    "suberb": "Sydenham",
+    "negative": 27,
+    "neutral": 170,
+    "postive": 65
+  },
+  {
+    "suberb": "Melbourne",
+    "negative": 704,
+    "neutral": 10437,
+    "postive": 3891
+  },
+  {
+    "suberb": "McKinnon",
+    "negative": 19,
+    "neutral": 222,
+    "postive": 95
+  },
+  {
+    "suberb": "West Footscray",
+    "negative": 19,
+    "neutral": 145,
+    "postive": 94
+  },
+  {
+    "suberb": "Tarneit",
+    "negative": 84,
+    "neutral": 761,
+    "postive": 301
+  },
+  {
+    "suberb": "Kingsville",
+    "negative": 22,
+    "neutral": 141,
+    "postive": 57
+  },
+  {
+    "suberb": "Hadfield",
+    "negative": 14,
+    "neutral": 164,
+    "postive": 66
+  },
+  {
+    "suberb": "Williamstown",
+    "negative": 35,
+    "neutral": 360,
+    "postive": 155
+  },
+  {
+    "suberb": "Park Orchards",
+    "negative": 13,
+    "neutral": 335,
+    "postive": 165
+  },
+  {
+    "suberb": "Sunshine North",
+    "negative": 19,
+    "neutral": 102,
+    "postive": 42
+  },
+  {
+    "suberb": "Badger Creek",
+    "negative": 5,
+    "neutral": 66,
+    "postive": 19
+  },
+  {
+    "suberb": "Mitcham",
+    "negative": 62,
+    "neutral": 403,
+    "postive": 196
+  },
+  {
+    "suberb": "Dandenong North",
+    "negative": 41,
+    "neutral": 225,
+    "postive": 60
+  },
+  {
+    "suberb": "Tullamarine",
+    "negative": 18,
+    "neutral": 109,
+    "postive": 28
+  },
+  {
+    "suberb": "Carrum Downs",
+    "negative": 21,
+    "neutral": 226,
+    "postive": 150
+  },
+  {
+    "suberb": "Yarraville",
+    "negative": 25,
+    "neutral": 226,
+    "postive": 95
+  },
+  {
+    "suberb": "Skye",
+    "negative": 8,
+    "neutral": 90,
+    "postive": 85
+  }
+]

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" name="viewport" content="width=device-width, initial-scale=1">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <link href="map_bar_combined.css" rel="stylesheet">
+    <title> COMP90024 | Assignment 2 | Scenario 1 </title>
+</head>
+
+<body>
+
+<div class="navbar">
+    <a href="/project_webpage/home/home.html">Home</a>
+    <a href="/project_webpage/scenario1/map_bar_combined.html">Scenario 1</a>
+    <a class="active" href="/project_webpage/scenario2/map_bar_combined.html">Scenario 2</a>
+    <a href="/project_webpage/scenario3/map_bar_combined.html">Scenario 3</a>
+</div>
+
+<div class="main">
+    <div id="mydiv">
+        <div id="mydivheader">Movable</div>
+        <div class="top-right">Top Right</div>
+        <div id="temp">
+            <label><input type="checkbox"> Sort values</label>
+        </div>
+    </div>
+</div>
+
+<div id="map" ></div>
+
+<div id="square">
+    <div style="padding-left:30px; height: 20px; width: 20px; background-color: blue; opacity: 0.3;"></div>
+    <p>Majority Negative</p>
+    <div style="padding-left:30px; height: 20px; width: 20px; background-color: blue; opacity: 0.6"></div>
+    <p>Majority Neutral</p>
+    <div style="padding-left:30px; height: 20px; width: 20px; background-color: blue; opacity: 0.9"></div>
+    <p>Majority Positive</p>
+    <p id="suburb_info">Suburb: None</p>
+    <p id="sentiment_info">Sentiment: None</p>
+    <p id="scenario_info">Scenario: None</p>
+<div>
+
+    <!--BUGGY-->
+<script async defer
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBmCwkNmLhxiuDu6F-wQLsOCM41psi2WMw&callback=myMap" type="text/javascript"></script>
+<script src="//d3js.org/d3.v3.min.js"></script>
+<script src="map_bar_combined.js"></script>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,169 @@
+@import 'https://fonts.googleapis.com/css?family=Roboto+Mono:100';
+
+#image{
+    height: 100%;
+    width: 100%
+}
+
+#scenarios{
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 50px;
+    color: whitesmoke;
+    padding-bottom: 50px;
+}
+
+.IMGcontainer {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.IMGcentered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+/*_________________________________________________side-by-side_____________________________________________________*/
+
+
+* {
+    box-sizing: border-box;
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+/*_________________________________________________scenario_box_____________________________________________________*/
+
+.scenario_container {
+    padding-left: 30px;
+    position: relative;
+    width: 100%;
+}
+
+.scenario_image {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.scenario_overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: grey;
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+    -webkit-transform:scale(0);
+    transition: .3s ease;
+}
+
+.scenario_container:hover .scenario_overlay {
+    transform: scale(1)
+}
+
+.scenario_text {
+    color: white;
+    font-size: 15px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+}
+
+/*_________________________________________________text_scrambler_____________________________________________________*/
+
+html,
+body {
+    font-family: "Times", Arial, serif;
+    height: 100%;
+    background-color: black;
+}
+
+.container {
+    height: 100%;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.text {
+    font-family: "Times", Arial, serif;
+    font-weight: 100;
+    font-size: 80px;
+    color: #fafafa;
+}
+
+.dud {
+    color: #757575;
+}
+
+/*_____________________________________________________Menu___________________________________________________________*/
+
+.overlay {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0, 0.9);
+    overflow-x: hidden;
+    transition: 0.5s;
+}
+
+.overlay-content {
+    position: relative;
+    top: 25%;
+    width: 100%;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.overlay a {
+    padding: 8px;
+    text-decoration: none;
+    font-size: 36px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+}
+
+.overlay a:hover, .overlay a:focus {
+    color: #f1f1f1;
+}
+
+.overlay .closebtn {
+    position: absolute;
+    top: 20px;
+    right: 45px;
+    font-size: 60px;
+}
+
+@media screen and (max-height: 450px) {
+    .overlay a {font-size: 20px}
+    .overlay .closebtn {
+        font-size: 40px;
+        top: 15px;
+        right: 35px;
+    }
+}

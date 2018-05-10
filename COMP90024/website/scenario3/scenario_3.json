@@ -1,0 +1,1031 @@
+[
+  {
+    "suberb": "Little River",
+    "negative": 0,
+    "neutral": 1,
+    "positive": 0,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Maidstone",
+    "negative": 0,
+    "neutral": 0,
+    "positive": 1,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Braybrook",
+    "negative": 0,
+    "neutral": 1,
+    "positive": 0,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Heidelberg",
+    "negative": 0,
+    "neutral": 1,
+    "positive": 1,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "St Kilda West",
+    "negative": 0,
+    "neutral": 4,
+    "positive": 0,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Epping",
+    "negative": 0,
+    "neutral": 1,
+    "positive": 1,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Kilsyth",
+    "negative": 0,
+    "neutral": 1,
+    "positive": 2,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "The Basin",
+    "negative": 0,
+    "neutral": 1,
+    "positive": 0,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Burwood",
+    "negative": 0,
+    "neutral": 1,
+    "positive": 0,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Brunswick West",
+    "negative": 0,
+    "neutral": 1,
+    "positive": 1,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Viewbank",
+    "negative": 0,
+    "neutral": 0,
+    "positive": 2,
+    "sedentary_behavior": 34.6
+  },
+  {
+    "suberb": "Bundoora",
+    "negative": 0,
+    "neutral": 1,
+    "positive": 1,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Meadow Heights",
+    "negative": 0,
+    "neutral": 3,
+    "positive": 0,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Notting Hill",
+    "negative": 1,
+    "neutral": 6,
+    "positive": 5,
+    "sedentary_behavior": 33.1
+  },
+  {
+    "suberb": "Flemington",
+    "negative": 0,
+    "neutral": 1,
+    "positive": 1,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Fitzroy",
+    "negative": 1,
+    "neutral": 4,
+    "positive": 1,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Mill Park",
+    "negative": 0,
+    "neutral": 3,
+    "positive": 1,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Malvern East",
+    "negative": 2,
+    "neutral": 1,
+    "positive": 0,
+    "sedentary_behavior": 35.4
+  },
+  {
+    "suberb": "Hillside",
+    "negative": 0,
+    "neutral": 1,
+    "positive": 0,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Sandhurst",
+    "negative": 1,
+    "neutral": 3,
+    "positive": 8,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Essendon North",
+    "negative": 0,
+    "neutral": 2,
+    "positive": 0,
+    "sedentary_behavior": 29.5
+  },
+  {
+    "suberb": "Derrimut",
+    "negative": 0,
+    "neutral": 1,
+    "positive": 1,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Highett",
+    "negative": 0,
+    "neutral": 1,
+    "positive": 2,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Wantirna South",
+    "negative": 1,
+    "neutral": 0,
+    "positive": 1,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Eltham North",
+    "negative": 0,
+    "neutral": 1,
+    "positive": 0,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Tecoma",
+    "negative": 0,
+    "neutral": 3,
+    "positive": 0,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Springvale South",
+    "negative": 0,
+    "neutral": 2,
+    "positive": 0,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Mordialloc",
+    "negative": 0,
+    "neutral": 3,
+    "positive": 1,
+    "sedentary_behavior": 32
+  },
+  {
+    "suberb": "West Melbourne",
+    "negative": 0,
+    "neutral": 1,
+    "positive": 0,
+    "sedentary_behavior": 52.3
+  },
+  {
+    "suberb": "Brunswick",
+    "negative": 0,
+    "neutral": 3,
+    "positive": 1,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Ferntree Gully",
+    "negative": 0,
+    "neutral": 0,
+    "positive": 1,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Thornbury",
+    "negative": 0,
+    "neutral": 2,
+    "positive": 0,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Brunswick East",
+    "negative": 0,
+    "neutral": 2,
+    "positive": 1,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Officer",
+    "negative": 0,
+    "neutral": 2,
+    "positive": 0,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "East Melbourne",
+    "negative": 0,
+    "neutral": 4,
+    "positive": 3,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Mount Evelyn",
+    "negative": 0,
+    "neutral": 2,
+    "positive": 0,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Croydon North",
+    "negative": 0,
+    "neutral": 0,
+    "positive": 1,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Black Rock",
+    "negative": 0,
+    "neutral": 1,
+    "positive": 0,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Hallam",
+    "negative": 0,
+    "neutral": 3,
+    "positive": 0,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "South Melbourne",
+    "negative": 2,
+    "neutral": 2,
+    "positive": 3,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Sunbury",
+    "negative": 0,
+    "neutral": 1,
+    "positive": 2,
+    "sedentary_behavior": 24.2
+  },
+  {
+    "suberb": "Kew East",
+    "negative": 0,
+    "neutral": 0,
+    "positive": 1,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Ascot Vale",
+    "negative": 0,
+    "neutral": 1,
+    "positive": 0,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Saint Kilda",
+    "negative": 1,
+    "neutral": 2,
+    "positive": 4,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Port Melbourne",
+    "negative": 0,
+    "neutral": 4,
+    "positive": 1,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Parkdale",
+    "negative": 0,
+    "neutral": 2,
+    "positive": 1,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Airport West",
+    "negative": 0,
+    "neutral": 1,
+    "positive": 0,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "North Melbourne",
+    "negative": 1,
+    "neutral": 4,
+    "positive": 3,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Bonbeach",
+    "negative": 1,
+    "neutral": 1,
+    "positive": 1,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Canterbury",
+    "negative": 0,
+    "neutral": 1,
+    "positive": 0,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Caulfield North",
+    "negative": 1,
+    "neutral": 2,
+    "positive": 3,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Oak Park",
+    "negative": 0,
+    "neutral": 1,
+    "positive": 1,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Toorak",
+    "negative": 0,
+    "neutral": 8,
+    "positive": 2,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Doreen",
+    "negative": 0,
+    "neutral": 1,
+    "positive": 0,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Eumemmerring",
+    "negative": 0,
+    "neutral": 0,
+    "positive": 1,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Richmond",
+    "negative": 0,
+    "neutral": 5,
+    "positive": 2,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Keilor",
+    "negative": 0,
+    "neutral": 0,
+    "positive": 1,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Knoxfield",
+    "negative": 1,
+    "neutral": 2,
+    "positive": 0,
+    "sedentary_behavior": 39.9
+  },
+  {
+    "suberb": "Kingsbury",
+    "negative": 0,
+    "neutral": 2,
+    "positive": 1,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Melton West",
+    "negative": 0,
+    "neutral": 1,
+    "positive": 3,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Narre Warren South",
+    "negative": 0,
+    "neutral": 0,
+    "positive": 1,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Caroline Springs",
+    "negative": 0,
+    "neutral": 1,
+    "positive": 1,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Frankston North",
+    "negative": 0,
+    "neutral": 1,
+    "positive": 0,
+    "sedentary_behavior": 33.6
+  },
+  {
+    "suberb": "Glen Iris",
+    "negative": 0,
+    "neutral": 1,
+    "positive": 3,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Hawthorn South",
+    "negative": 0,
+    "neutral": 0,
+    "positive": 2,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Parkville",
+    "negative": 1,
+    "neutral": 1,
+    "positive": 2,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Hoppers Crossing",
+    "negative": 0,
+    "neutral": 0,
+    "positive": 1,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Balaclava",
+    "negative": 0,
+    "neutral": 1,
+    "positive": 2,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Chirnside Park",
+    "negative": 0,
+    "neutral": 0,
+    "positive": 2,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Carlton",
+    "negative": 1,
+    "neutral": 6,
+    "positive": 3,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Coburg",
+    "negative": 0,
+    "neutral": 2,
+    "positive": 1,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Craigieburn",
+    "negative": 0,
+    "neutral": 1,
+    "positive": 0,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Springvale",
+    "negative": 0,
+    "neutral": 1,
+    "positive": 0,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Eltham",
+    "negative": 0,
+    "neutral": 1,
+    "positive": 0,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Mernda",
+    "negative": 0,
+    "neutral": 1,
+    "positive": 1,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Glen Huntly",
+    "negative": 0,
+    "neutral": 1,
+    "positive": 0,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Elsternwick",
+    "negative": 0,
+    "neutral": 1,
+    "positive": 0,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Belgrave South",
+    "negative": 0,
+    "neutral": 0,
+    "positive": 1,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Williams Landing",
+    "negative": 0,
+    "neutral": 1,
+    "positive": 0,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Ringwood East",
+    "negative": 0,
+    "neutral": 1,
+    "positive": 0,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Docklands",
+    "negative": 0,
+    "neutral": 3,
+    "positive": 2,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Newport",
+    "negative": 0,
+    "neutral": 1,
+    "positive": 0,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Preston",
+    "negative": 0,
+    "neutral": 0,
+    "positive": 1,
+    "sedentary_behavior": 40.2
+  },
+  {
+    "suberb": "Balwyn North",
+    "negative": 0,
+    "neutral": 1,
+    "positive": 0,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Northcote",
+    "negative": 0,
+    "neutral": 2,
+    "positive": 0,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Pakenham South",
+    "negative": 0,
+    "neutral": 0,
+    "positive": 1,
+    "sedentary_behavior": 33.5
+  },
+  {
+    "suberb": "Clifton Hill",
+    "negative": 0,
+    "neutral": 1,
+    "positive": 0,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Bacchus Marsh",
+    "negative": 0,
+    "neutral": 1,
+    "positive": 0,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Clifton Springs",
+    "negative": 0,
+    "neutral": 1,
+    "positive": 1,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Blackburn South",
+    "negative": 0,
+    "neutral": 1,
+    "positive": 0,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Ashwood",
+    "negative": 0,
+    "neutral": 1,
+    "positive": 0,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Abbotsford",
+    "negative": 0,
+    "neutral": 0,
+    "positive": 1,
+    "sedentary_behavior": 43.4
+  },
+  {
+    "suberb": "Windsor",
+    "negative": 2,
+    "neutral": 4,
+    "positive": 1,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Werribee",
+    "negative": 0,
+    "neutral": 1,
+    "positive": 0,
+    "sedentary_behavior": 32.8
+  },
+  {
+    "suberb": "Plenty",
+    "negative": 0,
+    "neutral": 2,
+    "positive": 0,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Coburg North",
+    "negative": 0,
+    "neutral": 2,
+    "positive": 0,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Mulgrave",
+    "negative": 0,
+    "neutral": 1,
+    "positive": 0,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Roxburgh Park",
+    "negative": 0,
+    "neutral": 2,
+    "positive": 0,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Burwood East",
+    "negative": 0,
+    "neutral": 1,
+    "positive": 0,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Kensington",
+    "negative": 0,
+    "neutral": 1,
+    "positive": 0,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Brookfield",
+    "negative": 0,
+    "neutral": 0,
+    "positive": 1,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Hawthorn East",
+    "negative": 0,
+    "neutral": 0,
+    "positive": 1,
+    "sedentary_behavior": 45.9
+  },
+  {
+    "suberb": "Doveton",
+    "negative": 0,
+    "neutral": 1,
+    "positive": 0,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Footscray",
+    "negative": 0,
+    "neutral": 3,
+    "positive": 2,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Seddon",
+    "negative": 0,
+    "neutral": 1,
+    "positive": 0,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Clayton",
+    "negative": 1,
+    "neutral": 3,
+    "positive": 2,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Chelsea",
+    "negative": 1,
+    "neutral": 2,
+    "positive": 0,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Boronia",
+    "negative": 0,
+    "neutral": 1,
+    "positive": 0,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Box Hill",
+    "negative": 0,
+    "neutral": 2,
+    "positive": 0,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Saint Helena",
+    "negative": 0,
+    "neutral": 1,
+    "positive": 0,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Blackburn",
+    "negative": 0,
+    "neutral": 1,
+    "positive": 0,
+    "sedentary_behavior": 41.5
+  },
+  {
+    "suberb": "Noble Park",
+    "negative": 0,
+    "neutral": 1,
+    "positive": 0,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Maribyrnong",
+    "negative": 0,
+    "neutral": 2,
+    "positive": 1,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Lara",
+    "negative": 0,
+    "neutral": 1,
+    "positive": 0,
+    "sedentary_behavior": 30
+  },
+  {
+    "suberb": "Fairfield",
+    "negative": 0,
+    "neutral": 2,
+    "positive": 0,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Queenscliff",
+    "negative": 0,
+    "neutral": 0,
+    "positive": 1,
+    "sedentary_behavior": 21.3
+  },
+  {
+    "suberb": "Berwick",
+    "negative": 0,
+    "neutral": 2,
+    "positive": 1,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Southbank",
+    "negative": 1,
+    "neutral": 10,
+    "positive": 2,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Altona North",
+    "negative": 0,
+    "neutral": 1,
+    "positive": 1,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Gowanbrae",
+    "negative": 0,
+    "neutral": 1,
+    "positive": 0,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Hampton",
+    "negative": 0,
+    "neutral": 2,
+    "positive": 1,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Sunshine West",
+    "negative": 1,
+    "neutral": 4,
+    "positive": 0,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Collingwood",
+    "negative": 0,
+    "neutral": 2,
+    "positive": 1,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Beaumaris",
+    "negative": 0,
+    "neutral": 1,
+    "positive": 1,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Carlton North",
+    "negative": 1,
+    "neutral": 0,
+    "positive": 1,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Albert Park",
+    "negative": 0,
+    "neutral": 2,
+    "positive": 3,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "North Fitzroy",
+    "negative": 3,
+    "neutral": 28,
+    "positive": 18,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Narre Warren",
+    "negative": 0,
+    "neutral": 1,
+    "positive": 0,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Albion",
+    "negative": 0,
+    "neutral": 0,
+    "positive": 1,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Attwood",
+    "negative": 0,
+    "neutral": 5,
+    "positive": 2,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Moorabbin",
+    "negative": 0,
+    "neutral": 0,
+    "positive": 1,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Alphington",
+    "negative": 0,
+    "neutral": 1,
+    "positive": 0,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Heatherton",
+    "negative": 0,
+    "neutral": 0,
+    "positive": 1,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Caulfield East",
+    "negative": 0,
+    "neutral": 1,
+    "positive": 0,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Dandenong",
+    "negative": 1,
+    "neutral": 1,
+    "positive": 1,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Diamond Creek",
+    "negative": 0,
+    "neutral": 1,
+    "positive": 0,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Kew",
+    "negative": 0,
+    "neutral": 1,
+    "positive": 1,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Lalor",
+    "negative": 0,
+    "neutral": 1,
+    "positive": 0,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Melbourne",
+    "negative": 1,
+    "neutral": 19,
+    "positive": 7,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Tarneit",
+    "negative": 1,
+    "neutral": 5,
+    "positive": 1,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Hadfield",
+    "negative": 0,
+    "neutral": 2,
+    "positive": 0,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Williamstown",
+    "negative": 0,
+    "neutral": 3,
+    "positive": 0,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Sunshine North",
+    "negative": 0,
+    "neutral": 1,
+    "positive": 0,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Mitcham",
+    "negative": 0,
+    "neutral": 2,
+    "positive": 2,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Tullamarine",
+    "negative": 0,
+    "neutral": 1,
+    "positive": 0,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Carrum Downs",
+    "negative": 0,
+    "neutral": 1,
+    "positive": 0,
+    "sedentary_behavior": null
+  },
+  {
+    "suberb": "Yarraville",
+    "negative": 0,
+    "neutral": 1,
+    "positive": 0,
+    "sedentary_behavior": null
+  }
+]
